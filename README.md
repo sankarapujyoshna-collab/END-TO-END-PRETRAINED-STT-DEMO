@@ -80,7 +80,7 @@ For each audio sample, the following information was displayed:
 * Operating system details
 * Python version
 
-## Sample Output
+##Output
 
 Output obtained after execution:
 
