@@ -1,4 +1,4 @@
-# T13 - End-to-End Pretrained STT Demo using Whisper
+#End-to-End Pretrained STT Demo using Whisper
 
 ## Problem Statement
 
